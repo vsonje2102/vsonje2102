@@ -19,7 +19,7 @@
 
 - **Programming Languages**: Python, C, JavaScript, Shell Scripting  
 - **Web Development**: HTML, CSS, JavaScript  
-- **Databases**: MySQL  
+- **Databases**: MySQL , Postgres
 - **Other Skills**: Functional programming, Bash scripting  
 
 ---
