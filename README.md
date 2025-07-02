@@ -28,10 +28,10 @@
 
 ## 📚 Projects  
 
-- ### 📰 [News Scraper Tool]  
+- ### 📰 [News Scraper Tool](https://github.com/vsonje2102/news-scraper)
   A Python-based tool to scrape articles from any news website using a configurable setup. Feed a news site and a config file — it intelligently extracts and stores all articles.  
 
-- ### 🌐 [SPPU Research Park Website (Internship Project)]  
+- ### 🌐 [SPPU Research Park Website (Internship Project)](https://sppu-rpf.in/)  
   Developed and customized the official site using **WordPress**, improving layout and functionality for institutional presentation.  
 
 - ### 🔧 [Offline Site Cloner & Web Scraper](https://github.com/vsonje2102/offline-site-cloner-Web-Scraper-)  
